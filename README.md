@@ -27,3 +27,12 @@ and answer the questions
 or
 The `package.json` can also be created manually.
 At least name and version are needed.
+
+## install libraries
+
+```shell
+Npm install express
+```
+
+Installed libraries will be in `node_modules`folder.
+Also it adds dependencies object in to package.json
