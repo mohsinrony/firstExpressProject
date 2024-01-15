@@ -36,3 +36,9 @@ Npm install express
 
 Installed libraries will be in `node_modules`folder.
 Also it adds dependencies object in to package.json
+
+## Install all dependencies from package.json
+
+```shell
+npm install
+```
