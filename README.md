@@ -42,3 +42,9 @@ Also it adds dependencies object in to package.json
 ```shell
 npm install
 ```
+
+## Check licenses
+
+```shell
+npx license-checker --summary
+```
