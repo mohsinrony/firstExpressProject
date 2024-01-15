@@ -48,3 +48,9 @@ npm install
 ```shell
 npx license-checker --summary
 ```
+
+## check vulnerabilities
+
+```shell
+npm audit
+```
